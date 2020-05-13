@@ -1,3 +1,3 @@
-# Exercice-Cadavre-Exquis-Artyom
+# L'étudiant qui n'avait jamais...
 
 C'est l'histoire d'un étudiant de BeCode qui
