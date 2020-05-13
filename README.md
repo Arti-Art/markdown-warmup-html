@@ -1,5 +1,7 @@
 # L'étudiant BeCode qui n'avait jamais...
 
+![Alt Text](https://media.giphy.com/media/asbP3eIpTXlxS/giphy.gif)
+
 C'est l'histoire d'un étudiant de BeCode qui n'avait jamais goûté de viande d'ornithorynque.  
 D'après les dires, un steak d'ornithorynque poêlé à la graisse de pingouin africain serait le mets le plus délicieux qui existe.  
 Malheureusement pour lui, ce n'est pas quelque chose que l'on trouve simplement à la supérette du coin.  
