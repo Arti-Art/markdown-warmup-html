@@ -1,2 +1,3 @@
 # Exercice-Cadavre-Exquis-Artyom
-Cadavre Exquis d'Artyom
+
+C'est l'histoire d'un étudiant de BeCode qui
