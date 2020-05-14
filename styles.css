@@ -1,0 +1,25 @@
+html {
+    box-sizing: border-box;
+    font-family: arial, helvetica, sans-serif;}
+
+*, *:before, *:after {
+    box-sizing: inherit;}
+
+img {
+    max-width: 100%;}
+
+body {
+    display: grid;
+    place-items: center;
+}
+
+.container {
+    width: 950px;
+    padding: 30px;
+    border: 1px solid rgb(199, 199, 199);
+}
+
+code {
+    display: block;
+    background-color: rgb(237, 246, 250);
+}
